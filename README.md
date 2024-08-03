@@ -1,19 +1,26 @@
-# On-demand-Traffic-light-control
-Traffic lights for road intersections, pedestrian crossings to control the flow of traffic.
+# On-Demand Traffic Light Control
 
+## Overview
+The On-Demand Traffic Light Control system is designed to enhance traffic management by allowing for dynamic and responsive control of traffic lights. This system aims to reduce congestion and improve traffic flow efficiency based on real-time demand.
 
-Traffic lights are signaling devices positioned at road intersections, pedestrian crossings, and other locations to control the flow of traffic.
+## Features
+* Real-Time Traffic Monitoring: Continuously monitors traffic conditions to adjust light timings.
 
+* Pedestrian Request System: Enables pedestrians to request crossing signals on demand.
 
+* Adaptive Signal Control: Automatically adjusts traffic light durations based on current traffic density.
 
-Traffic lights normally consist of three signals, transmitting meaning to drivers and riders through colors and symbols including arrows and bicycles.
+* Emergency Vehicle Priority: Provides priority to emergency vehicles for faster response times.
 
-The regular traffic light colors are red, yellow, and green arranged vertically or horizontally in that order.
+* Data Analytics: Collects and analyzes traffic data to optimize future signal timings.
 
-Although this is internationally standardized, variations exist on national and local scales as to traffic light sequences and laws.
+* User-Friendly Interface: Easy-to-use interface for traffic management authorities to control and monitor the system.
 
+## Usage
+1- Set up the system at traffic intersections.
 
+2- Configure the traffic light control parameters through the provided interface.
 
-implementing a traffic lights system with an on-demand crosswalk button.
+3- Monitor traffic conditions and adjust settings as needed to ensure optimal traffic flow.
 
-Crosswalk buttons let the signal operations know that someone is planning to cross the street, so the light adjusts, giving the pedestrian enough time to get across.
+4- Use the pedestrian request feature for safer and more efficient pedestrian crossings.
